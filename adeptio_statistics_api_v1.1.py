@@ -1,4 +1,6 @@
 #!/usr/bin/env python
+# By adeptio dev team
+# Desc: 2018-09-01
 # -*- coding: utf-8 -*-
 
 from BaseHTTPServer import BaseHTTPRequestHandler, HTTPServer
