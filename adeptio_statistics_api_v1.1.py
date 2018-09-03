@@ -84,7 +84,7 @@ lang = {
 
 	'api_url': 'Full url',
 	'limits': 'Limits',
-	'limits_description': 'Please limit requests to no more than 5 per minute. Data sync every 5 minutes.',
+	'limits_description': 'Please limit requests to no more than 5 per minute. Data sync every 3 minutes.',
 	'api_doc_last_updated': 'Documentation Last Updated',
 	'misc': 'Misc',
 	'misc_description': 'All \'XX:XX\' fields are UTC+'+str(timezone/-(60*60))+' time.',
